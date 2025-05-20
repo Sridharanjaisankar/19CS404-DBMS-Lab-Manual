@@ -1,5 +1,6 @@
 # Experiment 2: DDL Commands
-
+# Name: Sridharan J
+# Register No: 212222040158
 ## AIM
 To study and implement DDL commands and different types of constraints.
 
