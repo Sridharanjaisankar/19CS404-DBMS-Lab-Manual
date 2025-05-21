@@ -1,7 +1,7 @@
 # Experiment 10: PL/SQL – Triggers
 
 ## Name: Sridharan J
-## Ref.No:212222040158
+## Register No: 212222040158
 
 ## AIM
 To write and execute PL/SQL trigger programs for automating actions in response to specific table events like INSERT, UPDATE, or DELETE.
