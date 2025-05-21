@@ -1,7 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
 ### NAME : Sridharan J
 ### REG NO : 212222040158
-### DATE : 21-04-2025
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
